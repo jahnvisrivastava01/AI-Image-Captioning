@@ -14,8 +14,8 @@
 
 | Technology | Purpose |
 |------------|---------|
-| 🐍 Python | Programming Language |
-| 🤗 Transformers | AI Model Pipeline |
+| Python | Programming Language |
+| Transformers | AI Model Pipeline |
 | BLIP | Image Captioning Model |
 | Pillow (PIL) | Image Processing |
 | Google Colab | Development Environment |
